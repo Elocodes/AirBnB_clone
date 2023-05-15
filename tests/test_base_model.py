@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Unittests for class path models/base_model.py:
+"""Unittests for class path models/base_model.py;
 unittest classes:
     TestBaseModel_save
     TestBaseModel_instances
